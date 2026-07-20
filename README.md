@@ -54,3 +54,4 @@ All rights reserved.
 ![GitHub last commit](https://img.shields.io/github/last-commit/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Last%20Commit) 
 ![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Issues&color=red) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=PRs&color=purple)
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/terminator1626/freeusdt-auto-earn-public&title=Views)
