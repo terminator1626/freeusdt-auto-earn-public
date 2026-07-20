@@ -44,3 +44,12 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 ## License
 
 All rights reserved.
+
+
+![GitHub repo stars](https://img.shields.io/github/stars/terminator1626/freeusdt-auto-earn-public?style=social)
+![GitHub forks](https://img.shields.io/github/forks/terminator1626/freeusdt-auto-earn-public?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/terminator1626/freeusdt-auto-earn-public?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/terminator1626/freeusdt-auto-earn-public)
+![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public)
+![GitHub license](https://img.shields.io/github/license/terminator1626/freeusdt-auto-earn-public)
