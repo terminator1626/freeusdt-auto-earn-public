@@ -51,6 +51,4 @@ All rights reserved.
 ![GitHub last commit](https://img.shields.io/github/last-commit/terminator1626/freeusdt-auto-earn-public)
 ![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public)
-![GitHub license](https://img.shields.io/github/license/terminator1626/freeusdt-auto-earn-public)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=terminator1626&show_icons=true&theme=radical)
