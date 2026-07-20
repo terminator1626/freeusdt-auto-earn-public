@@ -34,7 +34,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 2. Enable **Install from unknown sources** in your device settings
 3. Open the APK file to install
 
-## Inormations:
+## Informations:
 
 > I recommend using the app instead of the userscript. The userscript may stop working on pages blocked by antivirus, adblock, and other blockers. If you download the app, blockers won't work and the app will run smoothly in the background.
 > The applications also have a built-in solver. For the userscript, you need to purchase the SL Icon Captcha solver from [crypdona.cybranceehost.com](https://crypdona.cybranceehost.com/?page_id=64)
