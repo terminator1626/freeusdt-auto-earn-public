@@ -16,7 +16,9 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 
 ### Windows
 1. Download `FreeUSDT Auto Earn 1.0.0.exe`
-2. Run the installer and follow the on-screen instructions
+2. Run the app
+3. Log in to your FreeUSDT.eu account using the email address you registered with FaucetPay.io
+4. Earn
 
 ### Linux
 1. Download `FreeUSDT Auto Earn-1.0.0.AppImage`
