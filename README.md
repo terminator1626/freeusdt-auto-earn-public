@@ -37,3 +37,13 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 ## License
 
 All rights reserved.
+
+
+If you want to donate, you can do so via the options below. Donations are welcome.
+- FaucetPay: terminator1626
+- BTC: 18xS3jjS8EwNSDHD6uvW1sQ5g6zCA53MRy
+> LN: awaydeposit772@walletofsatoshi.com
+- LTC: MMqNMGHAPP76zdw9k5moyUPzqZmN2Wt73P
+- USDT (TRX): TUytiL6yZRdWT61vwFrAbGD2to8AbZMmAx
+- TRX: TRgP9VEskD2A7FkEw6JW3hozWXZAXRmyvL
+All donations will be used for updating the SL Icon Captcha solver and other expenses related to app development.
