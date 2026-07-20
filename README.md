@@ -52,4 +52,5 @@ All rights reserved.
 ![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public)
 ![GitHub license](https://img.shields.io/github/license/terminator1626/freeusdt-auto-earn-public)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1626&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=terminator1626&show_icons=true&theme=radical)
