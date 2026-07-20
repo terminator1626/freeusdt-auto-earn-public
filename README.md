@@ -45,7 +45,6 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 
 All rights reserved.
 
-<center>
 ![GitHub repo stars](https://img.shields.io/github/stars/terminator1626/freeusdt-auto-earn-public?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/terminator1626/freeusdt-auto-earn-public?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/terminator1626/freeusdt-auto-earn-public?style=social)
@@ -53,6 +52,4 @@ All rights reserved.
 ![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public)
 ![GitHub license](https://img.shields.io/github/license/terminator1626/freeusdt-auto-earn-public)
-   <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terminator1626&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
