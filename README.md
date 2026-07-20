@@ -35,6 +35,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 3. Open the APK file to install
 
 ## I recommend:
+
 > I recommend using the app instead of the userscript. The userscript may stop working on pages blocked by antivirus, adblock, and other blockers. If you download the app, blockers won't work and the app will run smoothly in the background.
 
 ## License
