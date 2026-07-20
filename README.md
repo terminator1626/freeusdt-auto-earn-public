@@ -11,6 +11,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 | Android  | [FreeUSDT Auto Earn.apk](https://www.dropbox.com/scl/fi/e5m4emqsn9m3iq9c1j7vs/FreeUSDT-Auto-Earn.apk?rlkey=ygz3gh4slzfb790mr0spocc3u&st=clx4jobg&dl=0) | ~11 MB |
 | Tampermonkey | [greasyfork - freeusdteu.user.js](https://greasyfork.org/cs/scripts/586985-freeusdt-eu) | ~4 KB |
 
+
 ## Installation
 
 ### Windows
