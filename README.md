@@ -45,9 +45,12 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 
 All rights reserved.
 
-![GitHub repo stars](https://img.shields.io/github/stars/terminator1626/freeusdt-auto-earn-public?style=social) - 
-![GitHub forks](https://img.shields.io/github/forks/terminator1626/freeusdt-auto-earn-public?style=social) - 
-![GitHub watchers](https://img.shields.io/github/watchers/terminator1626/freeusdt-auto-earn-public?style=social) - 
-![GitHub last commit](https://img.shields.io/github/last-commit/terminator1626/freeusdt-auto-earn-public) - 
-![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public) - 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public)
+## Stats
+
+![GitHub repo stars](https://img.shields.io/github/stars/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Stars&color=ffd700) 
+![GitHub forks](https://img.shields.io/github/forks/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Forks&color=blue) 
+![GitHub watchers](https://img.shields.io/github/watchers/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Watchers&color=green) 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Last%20Commit) 
+![GitHub issues](https://img.shields.io/github/issues/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=Issues&color=red) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/terminator1626/freeusdt-auto-earn-public?style=flat-square&label=PRs&color=purple)
