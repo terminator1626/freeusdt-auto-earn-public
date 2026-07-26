@@ -6,29 +6,29 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 
 | Platform | File | Size | Needed?
 |----------|------|------|------|
-| Windows  | [FreeUSDT Auto Earn 1.0.0.exe](https://www.dropbox.com/scl/fi/1iexg0trxo6zq7i96v9on/FreeUSDT-Auto-Earn-1.0.0.exe?rlkey=5t6xpcqwlved64sbxpnfqpjfr&st=kw8k2r5o&dl=0) | ~74 MB | Nothing, all included |
-| Linux    | [FreeUSDT Auto Earn-1.0.0.AppImage](https://www.dropbox.com/scl/fi/1rfqd6oj7do0rjkkp2rmr/FreeUSDT-Auto-Earn-1.0.0.AppImage?rlkey=i50n7z3u6xz94qw8drd23ty6m&st=ha8rug9j&dl=0) | ~108 MB | Nothing, all included |
-| Android  | [FreeUSDT Auto Earn.apk](https://www.dropbox.com/scl/fi/e5m4emqsn9m3iq9c1j7vs/FreeUSDT-Auto-Earn.apk?rlkey=ygz3gh4slzfb790mr0spocc3u&st=clx4jobg&dl=0) | ~11 MB | Nothing, all included |
+| Windows  | [FreeUSDT Auto Earn 1.0.1.exe](https://www.dropbox.com/scl/fi/f2f7lvz14dbj8p9l2oy54/FreeUSDT-Auto-Earn-1.0.1.exe?rlkey=9r84zzlzsi4m1oqxv3rtapyxt&st=syfhhy50&dl=0) | ~73.85 MB | Nothing, all included |
+| Linux    | [FreeUSDT Auto Earn-1.0.1.AppImage](https://www.dropbox.com/scl/fi/0y7zqjh5dl5el56c2hulg/FreeUSDT-Auto-Earn-1.0.1.AppImage?rlkey=3vr1x34p535lpjomfpp6e0t8k&st=pe8foipr&dl=0) | ~107.13 MB | Nothing, all included |
+| Android  | [FreeUSDT Auto Earn.apk](https://www.dropbox.com/scl/fi/p3nnz6y030rsyiaztubcu/FreeUSDT-Auto-Earn.apk?rlkey=lrfpvzu64pjuf9aib2a9c1udz&st=47pc134u&dl=0) | ~10.19 MB | Nothing, all included |
 | Tampermonkey | [greasyfork - freeusdteu.user.js](https://greasyfork.org/cs/scripts/586985-freeusdt-eu) | ~4 KB | [SL Icon Captcha solver](https://crypdona.cybranceehost.com/?page_id=64) |
 
 
 ## Installation
 
 ### Windows
-1. Download `FreeUSDT Auto Earn 1.0.0.exe`
+1. Download `FreeUSDT Auto Earn 1.0.1.exe`
 2. Run the app
 3. Log in to your FreeUSDT.eu account using the email address you registered with FaucetPay.io
 4. Earn
 
 ### Linux
-1. Download `FreeUSDT Auto Earn-1.0.0.AppImage`
+1. Download `FreeUSDT Auto Earn-1.0.1.AppImage`
 2. Make it executable:
    ```bash
-   chmod +x "FreeUSDT Auto Earn-1.0.0.AppImage"
+   chmod +x "FreeUSDT Auto Earn-1.0.1.AppImage"
    ```
 3. Run it:
    ```bash
-   ./"FreeUSDT Auto Earn-1.0.0.AppImage"
+   ./"FreeUSDT Auto Earn-1.0.1.AppImage"
    ```
 
 ### Android
