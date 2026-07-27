@@ -7,7 +7,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 | Platform | File | Size | Needed?
 |----------|------|------|------|
 | Windows  | [FreeUSDT Auto Earn 1.0.1.exe](https://www.dropbox.com/scl/fi/f2f7lvz14dbj8p9l2oy54/FreeUSDT-Auto-Earn-1.0.1.exe?rlkey=9r84zzlzsi4m1oqxv3rtapyxt&st=syfhhy50&dl=0) | ~73.85 MB | Nothing, all included |
-| Linux    | [FreeUSDT Auto Earn-1.0.1.AppImage](https://www.dropbox.com/scl/fi/0y7zqjh5dl5el56c2hulg/FreeUSDT-Auto-Earn-1.0.1.AppImage?rlkey=3vr1x34p535lpjomfpp6e0t8k&st=pe8foipr&dl=0) | ~107.13 MB | Nothing, all included |
+| Linux    | [FreeUSDT Auto Earn-1.0.1.AppImage](https://www.dropbox.com/scl/fi/5ad0bjzc7ux11aovcmbio/FreeUSDT-Auto-Earn-1.0.1.AppImage?rlkey=fobbbur4udas8rbz061wenq07&st=o9lh6rio&dl=0) | ~107.13 MB | Nothing, all included |
 | Android  | [FreeUSDT Auto Earn.apk](https://www.dropbox.com/scl/fi/p3nnz6y030rsyiaztubcu/FreeUSDT-Auto-Earn.apk?rlkey=lrfpvzu64pjuf9aib2a9c1udz&st=47pc134u&dl=0) | ~10.19 MB | Nothing, all included |
 | Tampermonkey | [greasyfork - freeusdteu.user.js](https://greasyfork.org/cs/scripts/586985-freeusdt-eu) | ~4 KB | [SL Icon Captcha solver](https://crypdona.cybranceehost.com/?page_id=64) |
 
