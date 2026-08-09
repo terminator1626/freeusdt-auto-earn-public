@@ -28,7 +28,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
    ```
 3. Run it:
    ```bash
-   ./"FreeUSDT Auto Earn-1.0.1.AppImage"
+   ./"FreeUSDT Auto Earn-1.0.2.AppImage"
    ```
 
 ### Android
