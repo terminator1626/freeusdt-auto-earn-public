@@ -7,7 +7,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 | Platform | File | Size | Needed?
 |----------|------|------|------|
 | Windows  | [FreeUSDT Auto Earn 1.0.2.exe](https://www.dropbox.com/scl/fi/rcrx8fn9zmssrdgypu1uc/FreeUSDT-Auto-Earn-1.0.2.exe?rlkey=0r7shytbdh3pdzhvzfjvygpko&st=82btvb93&dl=0) | ~73.88 MB | Nothing, all included |
-| Linux    | [FreeUSDT Auto Earn-1.0.2.AppImage](https://www.dropbox.com/scl/fi/yms86daxbfzihengqvdfo/FreeUSDT-Auto-Earn-1.0.2.AppImage?rlkey=qxi5vxudztkq3bwlsmn73aeh8&st=a3isflnz&dl=0) | ~107.14 MB | Nothing, all included |
+| Linux    | [FreeUSDT Auto Earn-1.0.2.AppImage](https://www.dropbox.com/scl/fi/yms86daxbfzihengqvdfo/FreeUSDT-Auto-Earn-1.0.2.AppImage?rlkey=qxi5vxudztkq3bwlsmn73aeh8&st=a3isflnz&dl=0) | ~107.16 MB | Nothing, all included |
 | Android  | Update coming soon | ~? MB | Nothing, all included |
 | Tampermonkey | [greasyfork - freeusdteu.user.js](https://greasyfork.org/cs/scripts/586985-freeusdt-eu) | ~4 KB | [SL Animated Icon Solver](https://crypdona.cybranceehost.com/?page_id=190) |
 
