@@ -15,16 +15,16 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 ## Installation
 
 ### Windows
-1. Download `FreeUSDT Auto Earn 1.0.1.exe`
+1. Download `FreeUSDT Auto Earn 1.0.2.exe`
 2. Run the app
 3. Log in to your FreeUSDT.eu account using the email address you registered with FaucetPay.io
 4. Earn
 
 ### Linux
-1. Download `FreeUSDT Auto Earn-1.0.1.AppImage`
+1. Download `FreeUSDT Auto Earn-1.0.2.AppImage`
 2. Make it executable:
    ```bash
-   chmod +x "FreeUSDT Auto Earn-1.0.1.AppImage"
+   chmod +x "FreeUSDT Auto Earn-1.0.2.AppImage"
    ```
 3. Run it:
    ```bash
@@ -32,6 +32,7 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
    ```
 
 ### Android
+> I'm considering completely discontinuing the Android app due to frequent corruption of the .grande files used to build the .apk.
 1. Download `FreeUSDT Auto Earn.apk`
 2. Enable **Install from unknown sources** in your device settings
 3. Open the APK file to install
