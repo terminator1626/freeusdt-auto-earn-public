@@ -13,7 +13,6 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
 |----------|------|------|------|
 | Windows  | [FreeUSDT Auto Earn 1.0.2.exe](https://www.dropbox.com/scl/fi/fkrqpm7m4xwuwowbuu98e/FreeUSDT-Auto-Earn-1.0.2.exe?rlkey=74uqk1bihl22s88oea47kj0gh&st=we68odbm&dl=0) | ~73.88 MB | Nothing, all included |
 | Linux    | ~~FreeUSDT Auto Earn-1.0.2.AppImage~~ | ~? MB | Nothing, all included |
-| Android  | Update coming soon | ~? MB | Nothing, all included |
 | Tampermonkey | [greasyfork - freeusdteu.user.js](https://greasyfork.org/cs/scripts/586985-freeusdt-eu) | ~11,1 KB | [SL Icon Captcha Solver](https://crypdona.cybranceehost.com/?page_id=64) + [Trusted Click](https://crypdona.cybranceehost.com/?page_id=66) |
 
 
@@ -35,12 +34,6 @@ Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
    ```bash
    ./"FreeUSDT Auto Earn-1.0.2.AppImage"
    ```
-
-### Android
-> I'm considering completely discontinuing the Android app due to frequent corruption of the .grande files used to build the .apk.
-1. Download `FreeUSDT Auto Earn.apk`
-2. Enable **Install from unknown sources** in your device settings
-3. Open the APK file to install
 
 ## Informations:
 
