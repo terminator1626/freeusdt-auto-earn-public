@@ -1,8 +1,3 @@
-## Important notice:
-> Unfortunately, I don't have enough space to install Linux to create an executable application for Linux, and until now I've been using GitHub Actions for this, but since I've reached the maximum limit, I guess that's the end of Linux app development here... I'm sorry.
-
-
-
 # FreeUSDT Auto Earn
 
 Automated tool for earning free USDT on [FreeUSDT.eu](https://FreeUSDT.eu).
